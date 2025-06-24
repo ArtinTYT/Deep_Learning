@@ -1,22 +1,23 @@
 # 李沐_手动深度学习
 
-## 项目简介
+## 内容简介
 
-本项目包含李沐老师的《动手学深度学习》一书的代码实现，对代码加上了详细的注释，方便学习。
+1. **代码**：本项目包含李沐老师的《动手学深度学习》一书的代码实现，对代码加上了详细的注释，方便学习。
+2. **理论**：理论部分笔记分享在我的博客上：[neurowave](https://neurowave.tech/ "访问博客")
+理论部分的内容，是根据李沐老师的[视频课程](https://courses.d2l.ai/zh-v2/ "访问视频页面") + [《手动深度学习》](https://zh.d2l.ai/chapter_preface/index.html "访问书") 这本书学习和整理的。
 
-## 内容来源
+>由于李沐老师的视频内容会和书有顺序差异，但基本覆盖书上重要知识点，书上有理论相关完整推导，视频主要讲重要技术推导和应用。
 
-内容是根据李沐老师的《手动深度学习》[https://zh.d2l.ai/chapter_preface/index.html](https://zh.d2l.ai/chapter_preface/index.html) 这本书的代码，对代码加上了详细的注释，方便学习。
+**资源：**
+- **书的官方地址**：[《手动深度学习》](https://zh.d2l.ai/chapter_preface/index.html) 
+- **配套视频的官方地址**：[视频主页](https://courses.d2l.ai/zh-v2/) 
+- **我的个人博客（理论部分）**：[https://neurowave.tech/](https://neurowave.tech/)
 
-## 技术栈
-
+**技术栈**
 - **框架**: PyTorch
 - **语言**: Python
 - **格式**: Jupyter Notebook
 
-## 理论笔记
-
-理论部分笔记分享在我的博客上：[https://neurowave.tech/](https://neurowave.tech/)
 
 ## 目录结构
 
