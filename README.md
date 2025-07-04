@@ -1,4 +1,14 @@
-[中文](#chinese-readme)
+## 🌐 Language / 语言选择
+
+- [English](#english-version)
+- [中文](#中文版)
+
+---
+
+## English Version
+
+<details open>
+<summary>Click to expand English content</summary>
 
 # Li Mu's Dive into Deep Learning
 
@@ -22,16 +32,16 @@
 ## Directory Structure
 
 ```
-李沐_手动深度学习/
-├── 2-Basic/
-├── 3-Linear Neural Networks/
-├── 4-Multilayer Perceptrons/
-├── 5-Deep Learning Computation/
-├── 8-Recurrent Neural Networks (RNN)/
-├── 9-Modern RNNs/
-├── 10-Attention Mechanisms/
-├── 14-NLP: Preprocessing/
-└── 15-NLP: Applications/
+Deep Learning/
+├── 2. Basic/
+├── 3. Linear Neural Networks/
+├── 4. Multilayer Perceptron/
+├── 5. Deep Learning Computation/
+├── 8. RNNs/
+├── 9. Modern RNNs/
+├── 10. Attention Mechanisms/
+├── 14. NLP Preprocessing/
+└── 15. NLP Applications/
 ```
 
 ## Study Suggestions
@@ -44,10 +54,14 @@
 
 Thanks to Dr. Mu Li and his team for providing excellent learning resources!
 
+</details>
+
 ---
 
-<details id="chinese-readme">
-<summary>点击展开中文说明 (Click to expand Chinese README)</summary>
+## 中文版
+
+<details>
+<summary>点击展开中文版内容</summary>
 
 # 李沐_手动深度学习
 
@@ -72,16 +86,16 @@ Thanks to Dr. Mu Li and his team for providing excellent learning resources!
 ## 目录结构
 
 ```
-李沐_手动深度学习/
-├── 2-基础知识/
-├── 3-线性神经网络/
-├── 4-多层感知机/
-├── 5-深度学习计算/
-├── 8-循环神经网络RNN/
-├── 9-现代循环神经网络/
-├── 10-注意力机制/
-├── 14-NLP：预处理/
-└── 15-NLP：应用/
+Deep Learning/
+├── 2. Basic/
+├── 3. Linear Neural Networks/
+├── 4. Multilayer Perceptron/
+├── 5. Deep Learning Computation/
+├── 8. RNNs/
+├── 9. Modern RNNs/
+├── 10. Attention Mechanisms/
+├── 14. NLP Preprocessing/
+└── 15. NLP Applications/
 ```
 
 ## 学习建议
