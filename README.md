@@ -1,3 +1,54 @@
+[中文](#chinese-readme)
+
+# Li Mu's Dive into Deep Learning
+
+## Project Overview
+
+1. **Code**: This project contains code implementations from Dr. Mu Li's book "Dive into Deep Learning" (动手学深度学习), with detailed comments for easier learning.
+2. **Theory**: Theoretical notes are shared on my blog: [neurowave](https://neurowave.tech/). The theory is based on Dr. Mu Li's [video course](https://courses.d2l.ai/zh-v2/) and the [official book](https://zh.d2l.ai/chapter_preface/index.html).
+
+> Note: The order of the video content may differ from the book, but both cover the essential knowledge points. The book provides complete theoretical derivations, while the videos focus on key techniques and applications.
+
+**Resources:**
+- **Official Book:** [Dive into Deep Learning](https://zh.d2l.ai/chapter_preface/index.html)
+- **Official Video Course:** [Video Homepage](https://courses.d2l.ai/zh-v2/)
+- **My Blog (Theory):** [https://neurowave.tech/](https://neurowave.tech/)
+
+**Tech Stack**
+- **Framework**: PyTorch
+- **Language**: Python
+- **Format**: Jupyter Notebook
+
+## Directory Structure
+
+```
+李沐_手动深度学习/
+├── 2-Basic/
+├── 3-Linear Neural Networks/
+├── 4-Multilayer Perceptrons/
+├── 5-Deep Learning Computation/
+├── 8-Recurrent Neural Networks (RNN)/
+├── 9-Modern RNNs/
+├── 10-Attention Mechanisms/
+├── 14-NLP: Preprocessing/
+└── 15-NLP: Applications/
+```
+
+## Study Suggestions
+
+1. Study in order, starting from the basics
+2. Each chapter includes both from-scratch and concise implementations
+3. Combine with theory notes for deeper understanding
+
+## Acknowledgements
+
+Thanks to Dr. Mu Li and his team for providing excellent learning resources!
+
+---
+
+<details id="chinese-readme">
+<summary>点击展开中文说明 (Click to expand Chinese README)</summary>
+
 # 李沐_手动深度学习
 
 ## 内容简介
@@ -17,7 +68,6 @@
 - **框架**: PyTorch
 - **语言**: Python
 - **格式**: Jupyter Notebook
-
 
 ## 目录结构
 
@@ -42,4 +92,6 @@
 
 ## 致谢
 
-感谢李沐老师及其团队提供的优质学习资源！ 
+感谢李沐老师及其团队提供的优质学习资源！
+
+</details> 
