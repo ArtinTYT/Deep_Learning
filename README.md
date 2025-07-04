@@ -1,6 +1,4 @@
-<p align="right">
 🇬🇧 [English](./README.md) | 🇨🇳 [中文](./README.zh.md) 
-</p>
 
 # Li Mu's Dive into Deep Learning
 

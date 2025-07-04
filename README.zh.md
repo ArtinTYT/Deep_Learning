@@ -1,6 +1,4 @@
-<p align="right">
 🇬🇧 [English](./README.md) | 🇨🇳 [中文](./README.zh.md)
-</p>
 
 
 # 李沐_手动深度学习
